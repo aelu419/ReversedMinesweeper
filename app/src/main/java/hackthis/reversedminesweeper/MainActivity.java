@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int WIDTH = 10, HEIGHT = 10;
     private static Item[][] map;
-    private static final int MINENUM = 30;
+    private static final int MINENUM = 22;
 
     private LinearLayout table;
     private Button start, help, quit;
